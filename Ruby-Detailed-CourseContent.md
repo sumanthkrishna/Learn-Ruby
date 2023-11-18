@@ -1,5 +1,5 @@
 # Learn-Ruby
-Learn ruby concepts through simple snippets
+Designed the course content from simple to detailed concepts that are needed to master Ruby programming language.
 
 
 1. **Variables and Data Types:**
