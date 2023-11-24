@@ -1,1 +1,0 @@
-# Ruby snippets to follow
